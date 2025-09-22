@@ -1,9 +1,8 @@
 # Nombre del Proyecto
-Mi Proyecto Java en IntelliJ
+Mis Proyectos Java en IntelliJ
 
 ## Descripción
-Este proyecto es una aplicación en Java que [explica brevemente qué hace tu proyecto].  
-Por ejemplo: "Permite gestionar usuarios y mostrar estadísticas en consola".
+Este proyecto de ejercicios en mi aprendizaje en JAVA
 
 ## Estructura del Proyecto
 - `src/` → Código fuente del proyecto  
