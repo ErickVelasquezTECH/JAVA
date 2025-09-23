@@ -1,4 +1,4 @@
-package org.example;
+package org.example.PC.PC1;
 
 public class PrintProgram {
     public static void main(String[] args) {

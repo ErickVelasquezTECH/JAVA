@@ -1,4 +1,4 @@
-package org.example;
+package org.example.PC.PC1;
 import java.util.Scanner;
 public class Ej1if {
     public static void main (String[]args){
