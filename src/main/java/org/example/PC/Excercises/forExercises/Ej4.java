@@ -11,7 +11,7 @@ public class Ej4 {
         scanner.nextLine();
         for (int i=1;i<=n1; i++){
             result=result*i;
-        };
+        }
         System.out.println(result);
     }
 }
