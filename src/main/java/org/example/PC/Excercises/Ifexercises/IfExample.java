@@ -16,7 +16,6 @@ public class IfExample {
             // Todas las sentencias que pongamos aquí se ejecutarán sólo si x es mayor que y
             System.out.println("x es mayor que y");
         }
-
         System.out.println("Esto se ejecuta siempre");
     }
 
@@ -43,7 +42,6 @@ public class IfExample {
                 scanner.nextLine();
                 int resultant = date3 - date4;
                 System.out.println("El resultant es " + resultant );
-
             }
         }
     }
