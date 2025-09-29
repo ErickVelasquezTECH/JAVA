@@ -1,4 +1,4 @@
-package org.example.PC.Excercises.whileExercises;
+package org.example.PC.Excercises.buclesAnidados;
 
 import java.util.Scanner;
 
