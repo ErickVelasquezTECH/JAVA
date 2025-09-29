@@ -9,8 +9,8 @@ public class Ej2BuclesAnidados {
         int numb=scanner.nextInt();
         scanner.nextLine();
         for (int i = 1; i<=numb ; i++) {
-            for (int j = numb-(numb-i); j <= ; j++) {
-                System.out.println(i);
+            for (int j = 1; j <= i ; j++) {
+                System.out.print(i);
             }
             System.out.println();
         }
