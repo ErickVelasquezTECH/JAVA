@@ -17,6 +17,6 @@ public class Ej6 {
             scanner.nextLine();
             media = media + number1;
         }
-        System.out.println("La media es: "+media);
+        System.out.println("La media es: "+media/counter);
     }
 }
